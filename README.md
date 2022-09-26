@@ -26,7 +26,10 @@ This website was created to practice the following skills:
 
 ## Credits
 - [Markdown Tutorial](https://www.markdowntutorial.com/) for help on basic markdown 
+- [GetBootstrap](https://getbootstrap.com/)
+- [StackOverflow](https://stackoverflow.com/questions/36003670/how-to-put-a-link-on-a-button-with-bootstrap) thread on how to add links to Bootstrap buttons
 
 ## Features
 - JavaScript
+- Bootstrap
  
