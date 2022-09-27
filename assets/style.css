@@ -46,6 +46,11 @@ p {
 
 }
 
+/*added display none*/
+.hide {
+    display: none;
+}
+
 /*added btn*/
 .btn {
 font-size: 20px;
